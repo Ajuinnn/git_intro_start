@@ -8,4 +8,4 @@ We bouwen de repo op om arduino projecten en documentatie bij te houden
 
 ## Contributors
 - Aeon Bonjé 
-- ????
+- Marie De Clercq
