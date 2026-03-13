@@ -1,6 +1,7 @@
 const int buttonPin = 2;  
 const int ledPin = LED_BUILTIN;  
-
+//setup()
+//loop()
 int buttonState = 0;  
 void setup() {
   pinMode(ledPin, OUTPUT);
